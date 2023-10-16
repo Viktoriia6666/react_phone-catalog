@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d6e71664.chunk.css",
+    "main.js": "./static/js/main.53e7f017.chunk.js",
+    "main.js.map": "./static/js/main.53e7f017.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1e8249f8.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1e8249f8.js.map",
+    "static/js/2.3e01e48e.chunk.js": "./static/js/2.3e01e48e.chunk.js",
+    "static/js/2.3e01e48e.chunk.js.map": "./static/js/2.3e01e48e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.d6e71664.chunk.css.map": "./static/css/main.d6e71664.chunk.css.map",
+    "static/js/2.3e01e48e.chunk.js.LICENSE.txt": "./static/js/2.3e01e48e.chunk.js.LICENSE.txt",
+    "static/media/Arrow_Left_black.960106b2.svg": "./static/media/Arrow_Left_black.960106b2.svg",
+    "static/media/Arrow_Left_gray.7460d679.svg": "./static/media/Arrow_Left_gray.7460d679.svg",
+    "static/media/Arrow_Up_black.4d05f552.svg": "./static/media/Arrow_Up_black.4d05f552.svg",
+    "static/media/Chevron (Arrow Right).c0d01b22.svg": "./static/media/Chevron (Arrow Right).c0d01b22.svg",
+    "static/media/Search.scss": "./static/media/Search.eb670dd9.svg",
+    "static/media/CardButtons.scss": "./static/media/Favourites_Heart_Like_red.d554a185.svg",
+    "static/media/Home.d4c29e4f.svg": "./static/media/Home.d4c29e4f.svg",
+    "static/media/Logo.c9417692.svg": "./static/media/Logo.c9417692.svg",
+    "static/media/index.scss": "./static/media/plus.042d308f.svg",
+    "static/media/Phones.07a8b44e.png": "./static/media/Phones.07a8b44e.png",
+    "static/media/Shopping_bag_Cart.1962e424.svg": "./static/media/Shopping_bag_Cart.1962e424.svg",
+    "static/media/acse.b914f412.png": "./static/media/acse.b914f412.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/category-accessories.e47d6d6d.png": "./static/media/category-accessories.e47d6d6d.png",
+    "static/media/downGray.0775c6b7.svg": "./static/media/downGray.0775c6b7.svg",
+    "static/media/no-result-512.73090937.png": "./static/media/no-result-512.73090937.png",
+    "static/media/not_found.cddfa236.jpg": "./static/media/not_found.cddfa236.jpg",
+    "static/media/rightGrayNoButton.2a072ff1.svg": "./static/media/rightGrayNoButton.2a072ff1.svg",
+    "static/media/rightblack.70f42d77.svg": "./static/media/rightblack.70f42d77.svg",
+    "static/media/rightgray.e028d388.svg": "./static/media/rightgray.e028d388.svg",
+    "static/media/tablet.25bae515.png": "./static/media/tablet.25bae515.png",
+    "static/media/upppp.81f93ebb.svg": "./static/media/upppp.81f93ebb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e8249f8.js",
+    "static/js/2.3e01e48e.chunk.js",
+    "static/css/main.d6e71664.chunk.css",
+    "static/js/main.53e7f017.chunk.js"
+  ]
+}
